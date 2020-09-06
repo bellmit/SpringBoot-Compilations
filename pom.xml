@@ -27,6 +27,7 @@
         <module>SpringBoot-activity-drools</module>
         <module>SpringBoot-IOT-nettyMqtt</module>
         <module>SpringBoot-IOT-TSL</module>
+        <module>SpringBoot-MongoDB</module>
     </modules>
     <packaging>pom</packaging>
 
